@@ -18,10 +18,10 @@ subir dois contêineres:
 ----------------------
 ## ESTRUTURA DO PROJETO
 ----------------------
-- docker-compose.yml         -> Arquivo de definição dos serviços
-- init_db.sql                -> Script SQL executado na inicialização do MySQL
-- upload_data.py             -> Script Python que faz a carga de dados
-- hp_data_raw.csv            -> Arquivo .csv contendo os dados a serem carregados
+- docker-compose.yml: Arquivo de definição dos serviços
+- init_db.sql: Script SQL executado na inicialização do MySQL
+- upload_data.py: Script Python que faz a carga de dados
+- hp_data_raw.csv: Arquivo .csv contendo os dados a serem carregados
 
 ----------------------
 ## COMO EXECUTAR
