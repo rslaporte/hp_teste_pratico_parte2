@@ -1,6 +1,4 @@
-==============================
 # House Performance - Teste Prático - Parte 2
-==============================
 
 Este projeto faz parte da realização do teste prático da House Performance, que consiste em subir os dados 
 de uma planilha fornecida em um banco de dados de minha escolha. 
